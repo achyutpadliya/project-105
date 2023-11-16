@@ -1,0 +1,22 @@
+.heading{
+     color: black;
+     font-size: 30px;
+     font-style: italic;
+}
+
+body{
+    background:linear-gradient(rgb(25, 182, 199) 0%,rgb(80, 206, 111) 100%);
+}
+
+.name_of_objects{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+#camera,#result{
+    border: 4px;
+    border-style: dotted;
+    width: 350px;
+    height: 300px;
+}
